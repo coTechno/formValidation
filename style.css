@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgb(4, 30, 31);
+    color: #fff;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-wrapper{
+    margin-top: 20px;
+}
+.page-title{
+    text-align: center;
+}
+.registration-form{
+    width: 800px;
+    margin: auto;
+}
+/* .valid-feedback, .invalid-feedback{
+    display: block;
+} */
